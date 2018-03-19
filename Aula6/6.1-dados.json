@@ -1,0 +1,28 @@
+{ 
+	"cols":[
+				{
+					"id": "", 
+					"label": "Nome", 
+					"pattern": "", 
+					"type":"string"
+				},
+				{
+					"id": "", 
+					"label": "Valor", 
+					"pattern": "", 
+					"type":"number"
+				}
+			],
+
+	"rows":[]
+}
+
+João Antônio Marques	25.110
+Ana Siqueira	10.020
+Alcides V. de Oliveira	30.240
+Rafael Antunes	2.310
+Bianca M. Sampaio	8.542
+Victor Barbosa	6.521
+Maria do Carmo Prado	12.327
+Maria Heloisa de Almeida	9.764
+Rita de Cássia Cuaron	20.174
